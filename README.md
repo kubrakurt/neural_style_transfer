@@ -1,7 +1,5 @@
 <h1 align="center"> Sinirsel Stil Aktarımı </h1>
 
-<h2 align="left"> Örnek Çıktılar </h2>
-
 <p align="left"> <img src="https://github.com/kubrakurt/neural_style_transfer/blob/main/Örnek%20Çıktılar/Sinirsel%20Stil%20Aktarımı%20-%20Çıktı%20-%201.jpg" /></p>
 <p align="left"> <img src="https://github.com/kubrakurt/neural_style_transfer/blob/main/Örnek%20Çıktılar/Sinirsel%20Stil%20Aktarımı%20-%20Çıktı%20-%202.jpg" /></p>
 <p align="left"> <img src="https://github.com/kubrakurt/neural_style_transfer/blob/main/Örnek%20Çıktılar/Sinirsel%20Stil%20Aktarımı%20-%20Çıktı%20-%203.jpg" /></p>
